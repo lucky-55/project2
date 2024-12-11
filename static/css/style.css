@@ -1,0 +1,56 @@
+.first-div{
+    float:left;
+    width:100%;
+}
+.first-div img{
+    width:100%;
+    float:left;
+}
+.main-div{
+    width:100%;
+    float:left;
+}
+.left-div {
+    width:15%;
+    float:left;
+    margin:10% 0% 0% 15%;
+}
+.left-div img{
+    width:100%;
+    float:left;
+
+
+}
+.right-div{
+    float:right;
+    width:45%;
+    margin:0% 0% 1% 8%;
+}
+.rigth-div img{
+    float:right;
+    width:100%;
+
+}
+.right-div h1{
+    font-size:50px;
+    font-family: "Rubik Doodle Shadow", system-ui;
+  font-weight: 400;
+
+}
+.second-div{
+    float:left;
+    width:100%;
+}
+.second-div img{
+    float:left;
+    width:20%;
+    height:200px;;
+}
+.second-div p{
+    text-align:center;
+    font-family: "Rubik Doodle Shadow", system-ui;
+  font-weight: 400;
+  font-size:30px;
+  
+
+}
